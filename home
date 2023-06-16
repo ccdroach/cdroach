@@ -1,1 +1,38 @@
-
+<style>
+body{background:url("https://64.media.tumblr.com/a7383c30d7bf4c23c539f08cbb3b7abd/37c4091ab0ac81c7-69/s250x400/6deee5e529d4a9132e590331c6b11627fe9a143b.gifv") no-repeat fixed; background-size:cover;}
+</style>
+<style>
+/* unvisited link */
+a:link {
+  color: black;
+/* visited link */
+a:visited {
+  color: black;
+}
+/* mouse over link */
+a:hover {
+  color: white;
+}
+a:active {
+  color: white;
+}
+.center {
+  margin: auto;
+  width: 30%;
+  border: none
+  padding: 10px;
+}
+.h1 {
+  font-family: "Lucidia Console", monospace;
+}
+.p1 {
+  font-family: "Lucidia Console", monospace;
+}
+.p2 {
+  font-family: "Lucidia Console", monospace;
+}
+.p3 {
+  font-family: "Lucidia Console", monospace;
+  color
+}
+</style>
